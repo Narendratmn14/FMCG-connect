@@ -75,11 +75,3 @@ This portal serves as a centralized management system for ITC Limited's Bhimavar
 3. **Bill Calculator**: Enter quantities for cigarette brands and calculate totals
 4. **Navigation**: Use sidebar icons to switch between sections
 
-## ⚠️ Disclaimer
-
-This is a sample project with demonstration data. All information provided is for educational purposes and may not reflect actual business operations.
-
----
-
-**Developed for**: Manikyapriya Agencies (ITC Limited Bhimavaram)  
-**Contact**: kumbhanarendra1414@gmail.com 
