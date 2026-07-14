@@ -82,4 +82,4 @@ This is a sample project with demonstration data. All information provided is fo
 ---
 
 **Developed for**: Manikyapriya Agencies (ITC Limited Bhimavaram)  
-**Contact**: motupallisarathchandra@gmail.com 
+**Contact**: kumbhanarendra1414@gmail.com 
